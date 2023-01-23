@@ -18,7 +18,7 @@
 <br />
 <div align="center">
   <a href="{URL}">
-    <img src="images/project-logo-full.png" alt="Logo" width="830">
+    <img src="img/project-logo-full.png" alt="Logo" width="830">
   </a>
 
   <h3 align="center">GraphLinq.{Project}</h3>
